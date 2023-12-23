@@ -27,7 +27,7 @@ Like all good software engineering, we’re zero-indexed! In this step, you’re
 
 I’ll leave you to set up your IDE/editor of choice and programming language of choice. After that here’s what I’d like you to do to be ready to test your solution.
 
-Download this [text](https://www.dropbox.com/scl/fi/rbzvip5qru9hp9k6zxeyz/test.txt?rlkey=28vxnv3s7upewp1u95ov5zjxx&dl=0) and save it as `test.txt`.
+Download this [text](../challenge-1/test.txt) and save it as `test.txt`.
 
 ### Step One
 
