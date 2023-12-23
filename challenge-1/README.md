@@ -70,7 +70,7 @@ If it doesn’t, check your code, fix any bugs, and try again. If it does, congr
 
 In this step, your goal is to support the command line option `-m` that outputs the number of characters in a file. If the current locale does not support multibyte characters this will match the `-c` option.
 
-You can learn more about programming for locales here
+You can learn more about programming for locales [here](https://learn.microsoft.com/en-us/globalization/locale/locale-and-culture)
 
 For this one your answer will depend on your locale, so if can, use `wc` itself and compare the output to your solution:
 
@@ -89,7 +89,7 @@ In this step your goal is to support the default option - i.e. no options are pr
 
 ```shell
 >ccwc test.txt
-    7145   58164  342190 test.txt
+  7145   58164  342190 test.txt
 ```
 
 If it doesn’t, check your code, fix any bugs, and try again. If it does, congratulations! On to…
