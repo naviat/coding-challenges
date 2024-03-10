@@ -1,12 +1,12 @@
 # Coding Challenges
 
+> Note: This repository is based on [Coding Challenges - John Crickett](https://codingchallenges.fyi/challenges)
+
 This repository is a weekly coding challenge. These are challenges that I’ve used or am using as exercises to learn a new programming language or technology.
 
 Each challenge will have you writing a full application or tool. Most of which will be based on real-world tools and utilities.
 
 The challenges are picked to be small enough to be completed in your spare time over a week or two and yet large enough to be complete working projects.
-
-> Note: This repo is based on [Coding Challenges - John Crickett](https://codingchallenges.fyi/challenges)
 
 ## Table of Contents
 
